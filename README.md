@@ -1,16 +1,15 @@
-# flutter_news_api
+# News App
 
-A new Flutter project.
+An Application using NewsApi to display daily news from all around the world.
+You can find news from categories or search by yourself.
 
-## Getting Started
+## Screenshots
+### Home
 
-This project is a starting point for a Flutter application.
+<img src="image1.png" width="400" height="800">
+<img src="image2.png" width="400" height="800">
+<img src="image3.png" width="400" height="800">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
