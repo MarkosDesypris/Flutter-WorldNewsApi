@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 # My Config
-app.lib/constants/
+/lib/constants/
